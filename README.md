@@ -8,6 +8,17 @@
   <img src="https://github-readme-stats.vercel.app/api?username=sprlptr48&show_icons=true" width="320" alt="My github stats"/>
 </a>
 
+## [Github Profile Views Counter](https://github.com/antonkomarev/github-profile-views-counter)
+It counts how many times your GitHub profile has been viewed. Free cloud micro-service.  
+
+![Sprlptr48](https://komarev.com/ghpvc/?username=sprlptr48&style=flat-square)
+
+Developed by by [Anton Komarev](https://github.com/antonkomarev).
+
+You can customize the color, label and style too. See how to customize [here](https://github.com/antonkomarev/github-profile-views-counter)
+
+<br/>
+
 
 <!--
 **Sprlptr48/Sprlptr48** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
