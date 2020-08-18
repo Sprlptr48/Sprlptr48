@@ -1,5 +1,5 @@
-### Hi there 👋
-<p> My name is Alp. I'm 17 year old student who does *software development* for fun.
+# Hi there 👋
+<p> My name is Alp. I'm 17 year old student who does *software development* for fun.</p>
 <!--
 **Sprlptr48/Sprlptr48** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
