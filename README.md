@@ -1,7 +1,13 @@
 # Hi there 👋
 <p> My name is Alp. I'm 17 year old student who does *software development* for fun.</p>
 
-https://api.github.com/users/Sprlptr48
+
+
+#### Github Stats Card
+<a href="https://github.com/sprlptr48" target="blank">
+  <img src="https://github-readme-stats.vercel.app/api?username=sprlptr48&show_icons=true" width="320" alt="My github stats"/>
+</a>
+
 
 <!--
 **Sprlptr48/Sprlptr48** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
