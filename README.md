@@ -8,7 +8,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=sprlptr48&show_icons=true" width="320" alt="My github stats"/>
 </a>
 
-![Sprlptr48](https://komarev.com/ghpvc/?username=sprlptr48&style=flat-square&&color=blue&label=Profile Views)
+![Sprlptr48](https://komarev.com/ghpvc/?username=sprlptr48&style=flat-square&&color=blue&label=Profile+Views)
 <br/>
 
 
