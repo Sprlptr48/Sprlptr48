@@ -9,6 +9,11 @@
 </a>
 
 ![Sprlptr48](https://komarev.com/ghpvc/?username=sprlptr48&style=flat-square&&color=blue&label=Profile+Views)
+
+<a href="lava" target= "blank" >
+  <img src ="https://github.com/Sprlptr48/Sprlptr48/blob/master/output.gif?raw=true" width="640" alt="lavaO"/>
+  </a>
+
 <br/>
 
 
