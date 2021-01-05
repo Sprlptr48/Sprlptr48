@@ -1,5 +1,5 @@
 # Hi there 👋
-<p> My name is Alp. I'm 17 year old student who does *software development* for fun.</p>
+<p> Welcome.</p>
 
 
 
