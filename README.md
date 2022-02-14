@@ -1,5 +1,9 @@
 # Hi <p> Welcome.</p>
 
+<a href="lava" target= "blank" >
+  <img src ="https://raw.githubusercontent.com/sprlptr48/images/main/Images/catpuccin.svg?raw=true" width="320" alt="catO"/>
+  </a>
+
 ![Sprlptr48](https://komarev.com/ghpvc/?username=sprlptr48&style=flat-square&&color=blue&label=Profile+Views)
 
 <a href="lava" target= "blank" >
