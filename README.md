@@ -17,7 +17,7 @@
 
 ```math
 \mmlToken{ms}[fontfamily="scarlet;
-color: red;
+color: black;
 pointer-events: none;
 z-index: -11;
 position: fixed;
