@@ -13,7 +13,6 @@
 <br/>
 
 
-https://raw.githubusercontent.com/sprlptr48/images/main/Images/flowersbm.png
 
 
 ```math
