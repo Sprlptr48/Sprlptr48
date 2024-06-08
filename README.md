@@ -30,10 +30,10 @@ width: 100vw;
 opacity: 1.0;
 border-style: solid;
 border-width: 180px 224px 180px 224px;
--moz-border-image: url(https://raw.githubusercontent.com/sprlptr48/images/main/Images/flowersbm.png) 180 224 180 224 round round;
--webkit-border-image: url(https://raw.githubusercontent.com/sprlptr48/images/main/Images/flowersbm.png) 180 224 180 224 round round;
--o-border-image: url(https://raw.githubusercontent.com/sprlptr48/images/main/Images/flowersbm.png) 180 224 180 224 round round;
-border-image: url(https://raw.githubusercontent.com/sprlptr48/images/main/Images/flowersbm.png) 180 224 180 224 round round;
+-moz-border-image: url(https://raw.githubusercontent.com/sprlptr48/images/06ce24c597ef46177299d2001ead072457de2039/Images/catpuccin.svg) 180 224 180 224 round round;
+-webkit-border-image: url(https://raw.githubusercontent.com/sprlptr48/images/06ce24c597ef46177299d2001ead072457de2039/Images/catpuccin.svg) 180 224 180 224 round round;
+-o-border-image: url(https://raw.githubusercontent.com/sprlptr48/images/06ce24c597ef46177299d2001ead072457de2039/Images/catpuccin.svg) 180 224 180 224 round round;
+border-image: url(https://raw.githubusercontent.com/sprlptr48/images/06ce24c597ef46177299d2001ead072457de2039/Images/catpuccin.svg) 180 224 180 224 round round;
 background-attachment: fixed !important;
 "]{}
 
