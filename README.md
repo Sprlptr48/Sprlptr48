@@ -12,31 +12,6 @@
 
 <br/>
 
-
-
-
-```math
-\mmlToken{ms}[fontfamily="scarlet;
-color: black;
-pointer-events: none;
-z-index: -11;
-position: fixed;
-top: 0;
-left: 0;
-height: 100vh;
-object-fit: cover;
-background-size: cover;
-width: 100vw;
-opacity: 1.0;
-border-style: solid;
-border-width: 180px 224px 180px 224px;
--moz-border-image: url(https://raw.githubusercontent.com/sprlptr48/images/06ce24c597ef46177299d2001ead072457de2039/Images/catpuccin.svg) 180 224 180 224 round round;
--webkit-border-image: url(https://raw.githubusercontent.com/sprlptr48/images/06ce24c597ef46177299d2001ead072457de2039/Images/catpuccin.svg) 180 224 180 224 round round;
--o-border-image: url(https://raw.githubusercontent.com/sprlptr48/images/06ce24c597ef46177299d2001ead072457de2039/Images/catpuccin.svg) 180 224 180 224 round round;
-border-image: url(https://raw.githubusercontent.com/sprlptr48/images/06ce24c597ef46177299d2001ead072457de2039/Images/catpuccin.svg) 180 224 180 224 round round;
-background-attachment: fixed !important;
-"]{}
-
 <!--
 **Sprlptr48/Sprlptr48** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
