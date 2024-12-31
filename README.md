@@ -13,6 +13,15 @@
   <img src ="https://github.com/Sprlptr48/Sprlptr48/blob/master/output.gif?raw=true" width="320" alt="lavaO"/>
   </a>
 -->
+## Languages and Tools
+![C](https://img.shields.io/badge/-C-000?&logo=C)
+![C++](https://img.shields.io/badge/-C++-000?&logo=C%2B%2B)
+![C#](https://img.shields.io/badge/-C%23-000?&logo=C%20Sharp)
+![Java](https://img.shields.io/badge/-Java-000?&logo=Java)
+![GLSL](https://img.shields.io/badge/-GLSL-000?&logo=Opengl)
+![HLSL](https://img.shields.io/badge/-HLSL-000?&logo=DirectX)
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 <br/>
 
 <!--
